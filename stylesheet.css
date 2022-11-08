@@ -1,0 +1,89 @@
+header {
+background: #CCCCFF;
+height: 130px;
+width: 100%;
+
+}
+
+body {
+   height:100%;
+   margin:0;
+   padding:0;
+}
+
+
+footer {
+background: #66cccc;
+height: 100px;
+width: 100%;
+}
+
+
+
+table, th, td {
+  border: 2px solid;
+  padding: 10px;
+  text-align: center;
+
+}
+
+
+table {
+  border-collapse: collapse;
+  position: relative;
+  width:70%;
+}
+
+td {
+height: 160px;
+width: 310px;
+}
+
+
+img {
+height: 160px;
+width: 310px;
+}
+
+
+#Company {
+background: #00ffff;
+}
+
+#City {
+background-color: #ffcc99;
+}
+
+
+#Lidl     {
+ background: yellow;
+}
+
+
+#London {
+ background-color: #66ffcc;
+}
+
+#Adobe {
+background-color: #cc9966;
+}
+
+#Mexico {
+background-color: #00ccff;
+}
+
+#Samsung {
+background-color: #33ff99;
+}
+
+#Paris {
+background-color: #ccffcc;
+}
+
+
+
+
+
+
+
+
